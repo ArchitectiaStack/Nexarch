@@ -1,0 +1,6 @@
+{
+  "name": "Nexarch Architects",
+  "description": "An elegant, interactive, and highly polished educational clone of Nexarch Architects—a premium architectural firm's landing page, featuring responsive bento elements, step-by-step process visualization, project gallery, and interactive touchpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
